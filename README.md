@@ -496,6 +496,11 @@ R:
  - [Text Mining with R](http://tidytextmining.com/) (by Julia Silge and David Robinson)
  - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)
 
+For additional details about the utilities seee:
+
+https://github.com/ktaranov/sqlserver-kit/blob/master/Utilities/README.md
+
+
 [*Back to top*](#header08)
 
 
